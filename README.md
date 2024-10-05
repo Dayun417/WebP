@@ -10,4 +10,7 @@
   - 2주차 공부 내용 정리 추가
 3. week3.html
   - 3주차 연습
-  - CSS3 style 공부 
+  - CSS3 style 공부
+4. week4.html
+  - 4주차 연습
+  - JavaScript 코어 객체 공부
