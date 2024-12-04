@@ -14,3 +14,13 @@
 4. week4.html
   - 4주차 연습
   - JavaScript 코어 객체 공부
+● object-gen.html
+  - 객체 생성 3가지 방법 연습
+5. week5
+  - prac8-4.html: 실습문제8-4
+  - prac8-6.html: 실습문제8-6
+6. week6
+  - prac9-2.html: 실습문제9-2 (라디오 버튼 선택된 것 알아내서 그림 그리기)
+  - prac9-3.html: 실습문제9-3 (Enter 키가 입력되었을 때 수식의 값 계산하기)
+7. week7
+  - prac10-5.html:실습문제 10-5, 10-6 포함 (SetTimeout, Setlnterval 이용 시계 보이기)
