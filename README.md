@@ -11,10 +11,9 @@
 3. week3.html
   - 3주차 연습
   - CSS3 style 공부
-4. week4.html
+4. week4_object-gen.html
   - 4주차 연습
   - JavaScript 코어 객체 공부
-● object-gen.html
   - 객체 생성 3가지 방법 연습
 5. week5
   - prac8-4.html : 계산해봅시다
