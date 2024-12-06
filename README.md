@@ -29,6 +29,7 @@
 9. week9
   - prac-store.html, prac-search.html: 세션 스토리지로 구입 리스트 저장
   - prac2-store.html, prac2-view.html: 일기 보기 기능
+  - prac12-1.html : 쿠키
 10. week10
   - ex13-9.html: 시작과 끝 숫자를 전달받아 합을 구하는 워커 태스크
   - ex13-10.html: 타이머를 가진 웹 워커 만들기
