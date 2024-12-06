@@ -27,6 +27,13 @@
   - practice9-10.html : 계산기
 7. week7
   - prac10-5.html, prac10-6.html : div 태그에 시계만들기 (SetTimeout, Setlnterval 이용 시계 보이기)
+  - prac10-3.html: 타이머
+  - prac10-1.html, prac10-2.html: 윈도우 이벤트 실습
+  - prac10-4.html: setInterval()을 활용한 텍스트 회전
+  - prac11-2.html: 캔버스 그리기 맛보기
+  - prac11-3.html: 선으로 삼각형 그리기
+  - prac11-4.html: 원호 그리기
+  - prac11-5.html: 사각형 그리기
 9. week9
   - prac-store.html, prac-search.html : 세션 스토리지로 구입 리스트 저장
   - prac2-store.html, prac2-view.html : 일기 보기 기능
