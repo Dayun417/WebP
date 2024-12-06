@@ -1,4 +1,3 @@
-// 워커 스레드에서 실행되는 코드
 self.onmessage = function (e) {
     const { a, b } = e.data; 
   
