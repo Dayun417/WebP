@@ -26,7 +26,7 @@
   - practice9-6.html : 마우스 휠을 이용한 이미지 확대/축소
   - practice9-10.html : 계산기
 7. week7
-  - prac10-5.html : 실습문제 10-5, 10-6 포함 (SetTimeout, Setlnterval 이용 시계 보이기)
+  - prac10-5.html, prac10-6.html : div 태그에 시계만들기 (SetTimeout, Setlnterval 이용 시계 보이기)
 9. week9
   - prac-store.html, prac-search.html : 세션 스토리지로 구입 리스트 저장
   - prac2-store.html, prac2-view.html : 일기 보기 기능
