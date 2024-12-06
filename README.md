@@ -27,7 +27,7 @@
 7. week7
   - prac10-5.html:실습문제 10-5, 10-6 포함 (SetTimeout, Setlnterval 이용 시계 보이기)
 9. week9
-  - prac-store.html, prac-view.html: 세션 스토리지로 구입 리스트 저장
+  - prac-store.html, prac-search.html: 세션 스토리지로 구입 리스트 저장
   - prac2-store.html, prac2-view.html: 일기 보기 기능
 10. week10
   - ex13-9.html: 시작과 끝 숫자를 전달받아 합을 구하는 워커 태스크
