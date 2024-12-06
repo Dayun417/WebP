@@ -20,7 +20,7 @@
   - prac8-4.html : 계산해봅시다
   - prac8-6.html : 이번 여름은 어디로 갈까요?
   - prac8-9.html : 라면 끓이는 순서
-  - practice(1),(2).html : DOM객체 동적 삽입
+  - practice8-10(1),(2).html : DOM객체 동적 삽입
 6. week6
   - practice9-2.html : 실습문제9-2 (라디오 버튼 선택된 것 알아내서 그림 그리기)
   - practice9-3.html : 실습문제9-3 (Enter 키가 입력되었을 때 수식의 값 계산하기)
