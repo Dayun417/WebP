@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3>aa</h3>
+    <hr>
+    <img id = "img" src="/Users/park/Desktop/4-2/WebPrograming/week5" onmouseover="startTimer(5000)" onmouseout="cancleTimer()">
+    <script>
+        let timerID = null;
+        function startTimer(time){
+            timerID = setTimeout("load('http://www.naver.com')", time)
+            document.getElementById("img").title = "타이머 동작 시간..";
+            console.log("time ==", time);
+        }
+
+        function cancleTimer(){
+            if(timerID != null) clearTimeout(timerID);
+        }
+
+        function load(url){
+            window.location = url;
+        }
+    </script>
+</body>
+</html>
