@@ -20,8 +20,8 @@
   - prac8-4.html: 실습문제8-4
   - prac8-6.html: 실습문제8-6
 6. week6
-  - prac9-2.html: 실습문제9-2 (라디오 버튼 선택된 것 알아내서 그림 그리기)
-  - prac9-3.html: 실습문제9-3 (Enter 키가 입력되었을 때 수식의 값 계산하기)
+  - practice9-2.html: 실습문제9-2 (라디오 버튼 선택된 것 알아내서 그림 그리기)
+  - practice9-3.html: 실습문제9-3 (Enter 키가 입력되었을 때 수식의 값 계산하기)
   - practice9-6.html: 마우스 휠을 이용한 이미지 확대/축소
   - practice9-10.html: 계산기
 7. week7
